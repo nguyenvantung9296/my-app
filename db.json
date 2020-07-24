@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "name": "Nitrotech Gold ",
+      "price": "100",
+      "image": "https://s1.thcdn.com/productimg/1600/1600/12194292-9444686505930374.jpg",
+      "stock": 20,
+      "count": 1,
+      "description": "Ứng dụng công nghệ siêu lọc ép lạnh độc quyền của hãng MuscleTech tiên tiến nhất hiện nay, Nitrotech Whey Gold 5.5lbs chứa độ tinh khiết tới 97% trong dòng Nitrotech, hội tụ đầy đủ chất lượng đỉnh cao trong mỗi lần dùng.",
+      "extras": "Công thức cải tiến với mỗi lần dùng chứa: 24g Protein cao cấp nhất + 5.5g BCAAs + 4g Glutamine giúp gia tăng tốc độ hồi phục và phát triển nhanh cơ bắp, tránh tình trạng dị hóa do việc tập luyện vượt ngưỡng.Nitrotech Whey Gold không chỉ có hương vị thơm ngon mà còn mang lại giá trị phát triển cơ bắp vượt trội, sản phẩm không thể thiếu nếu bạn muốn xây dựng cơ bắp nhanh nhất, là bước cải tiến hoàn hảo so với các dòng Nitrotech trước đây.",
+      "id": 1,
+      "size": "500"
+    },
+    {
+      "name": " Xtend Pro Isolate",
+      "price": "120",
+      "image": "https://s1.thcdn.com/productimg/1600/1600/10529687-1234620645123099.jpg",
+      "stock": 30,
+      "count": 1,
+      "description": "2500g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Whey protein trong Xtend Pro là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "id": 2,
+      "size": "2500"
+    },
+    {
+      "name": "Nutrex Iso Fit",
+      "price": "20",
+      "image": "https://deliciouslabs.com/wp-content/uploads/2019/03/colour-1024x1024.jpg",
+      "stock": 10,
+      "count": 1,
+      "description": "Nutrex Isofit được tạo nên bởi các axit amin thiết yếu (EAA) bao gồm cả nhánh Amino Acids (BCAA) giúp đốt cháy và tổng hợp lượng Protein cho cơ bắp để có sức mạnh vượt trội và giúp tăng cường cơ bắp một cách tối đa.",
+      "extras": "Isofit được tạo nên bởi dòng nguyên liệu sạch, tinh khiết nhất, là dòng Whey 100% Isolate tốt nhất hiện nay. Tất cả protein có trong Isofit đều 100% Instantized Whey Isolate dễ dàng chế biến trong mọi hoàn cảnh. Thành phần bột dầu MCT và sợi Inulin hữu cơ tạo ra dòng Whey siêu sạch.1 lần pha 1 muỗng với 300-400ml nước lọc, nước lạnh hoặc bất kỳ thức uống nào bạn yêu thích. Dùng 1 ngày 2 lần sáng dậy và sau tập để cơ bắp phát triển tốt nhất. 1 hũ Nutrex Isofit có thể dùng cho 70 lần sử dụng.",
+      "id": 3,
+      "size": "600"
+    },
+    {
+      "name": "NitroTech 10l 4.5kg",
+      "price": "130",
+      "image": "https://s1.thcdn.com/productimg/1600/1600/11715456-1224668337118706.jpg",
+      "stock": 4,
+      "count": 1,
+      "description": "30g protein isolate + 6.9g BCAA + 3g creatine, thực sự là một công thức quá tuyệt vời. Trước khi tập, hãy uống 1 muỗng Nitro Tech, nó sẽ giúp cơ thể bạn tràn đầy năng lượng để thực hiện tốt các bài tập. Đây là 1 yếu tố cực kỳ quan trọng trong việc tập luyện.",
+      "extras": "30g protein, chủ yếu từ whey protein isolate và whey peptides. Nitro Tech là một trong sản phẩm giúp phát triển cơ bắp cung cấp nhiều protein nhất, trong khi đó thì các loại whey protein khác chỉ chứa khoảng 24-25g/ 1 lần dùng, và pha trộn nhiều chất béo, đường carbs và tạp chất.6.9g BCAA giúp xây dựng cơ bắp tốt hơn, giúp chống mất cơ và tăng khả năng phục hồi cơ nhan",
+      "id": 4,
+      "size": "800"
+    },
+    {
+      "name": "Nitrotech 2.27kg",
+      "price": "110",
+      "image": "https://s1.thcdn.com/productimg/1600/1600/10637445-1454620651579654.jpg",
+      "stock": 12,
+      "count": 1,
+      "description": "Nutrex Isofit được tạo nên bởi các axit amin thiết yếu (EAA) bao gồm cả nhánh Amino Acids (BCAA) giúp đốt cháy và tổng hợp lượng Protein cho cơ bắp để có sức mạnh vượt trội và giúp tăng cường cơ bắp một cách tối đa.",
+      "extras": "Isofit được tạo nên bởi dòng nguyên liệu sạch, tinh khiết nhất, là dòng Whey 100% Isolate tốt nhất hiện nay. Tất cả protein có trong Isofit đều 100% Instantized Whey Isolate dễ dàng chế biến trong mọi hoàn cảnh. Thành phần bột dầu MCT và sợi Inulin hữu cơ tạo ra dòng Whey siêu sạch.1 lần pha 1 muỗng với 300-400ml nước lọc, nước lạnh hoặc bất kỳ thức uống nào bạn yêu thích. Dùng 1 ngày 2 lần sáng dậy và sau tập để cơ bắp phát triển tốt nhất. 1 hũ Nutrex Isofit có thể dùng cho 70 lần sử dụng.",
+      "id": 5,
+      "size": "2227"
+    },
+    {
+      "name": "Impact Whey Protein",
+      "price": "100",
+      "image": "https://s1.thcdn.com//productimg/1600/1600/12185019-1794714962345495.jpg",
+      "stock": 62,
+      "count": 1,
+      "description": "25g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Whey protein trong Xtend Pro là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "id": 6,
+      "size": "500"
+    },
+    {
+      "name": "Impact Whey Protein",
+      "price": "120",
+      "image": "https://product.hstatic.net/1000390441/product/10530943-4414674035314392_91c6f12f036c4581b4ea2467d8bfbe4a_master.jpg",
+      "stock": 4,
+      "count": 1,
+      "description": "25g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Whey protein trong Xtend Pro là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "id": 7,
+      "size": "1000"
+    },
+    {
+      "name": "Nutrex Iso 5lbs",
+      "price": "140",
+      "image": "https://s1.thcdn.com/productimg/1600/1600/12194292-9444686505930374.jpg",
+      "stock": 41,
+      "count": 1,
+      "description": "25g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Nutrex Iso 5lbs là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "id": 8,
+      "size": "2500"
+    },
+    {
+      "name": "Nutrex Iso 3000g",
+      "price": "160",
+      "image": "https://s1.thcdn.com/productimg/1600/1600/11353517-1534620647868477.jpg",
+      "stock": 33,
+      "count": 1,
+      "description": "105g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Nutrex Iso 3000g là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "id": 9,
+      "size": "1050"
+    },
+    {
+      "name": "Impact Protein Coffe",
+      "price": "120",
+      "image": "https://s1.thcdn.com/productimg/1600/1600/10575136-4054620652265709.jpg",
+      "stock": 13,
+      "count": 1,
+      "description": "100g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Impact Protein Coffe là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "id": 10,
+      "size": "1000"
+    },
+    {
+      "name": "Nutrex Protein 10lbs ",
+      "price": "120",
+      "image": "https://s1.thcdn.com//productimg/1600/1600/12312819-1774741214957079.jpg",
+      "stock": 13,
+      "count": 1,
+      "description": "150g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Nutrex Protein 10lbs là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "id": 11,
+      "size": "1500"
+    },
+    {
+      "name": "Impact F06 10lbs",
+      "price": "260",
+      "image": "https://s4.thcdn.com/widgets/83-hk/44/11766316-1-054358-045444.jpg",
+      "stock": "25",
+      "count": "1",
+      "description": "250 Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "Impact F06 10lbs là một loại Whey protein cô lập – nguồn whey sinh học cực cực kỳ tinh khiết, sạch sẽ được chọn lọc kỹ lưỡng để đáp ứng đầy đủ nhất nhu cầu hấp thụ protein trong tập luyện của bạn, đồng thời giúp cơ bắp, tăng trưởng phát triển toàn diện nhất có thể.Sản phẩm rất chú trọng vào sự phục hồi: Phục hồi nhanh chính là chìa khóa để có kết quả tập luyện tốt và nhanh hơn bao giờ hết.",
+      "size": "",
+      "id": 12
+    },
+    {
+      "name": "whey black 123",
+      "price": "200",
+      "image": "https://s1.thcdn.com//productimg/1600/1600/12185019-1794714962345495.jpg",
+      "stock": "1",
+      "count": "1",
+      "description": "250g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "250g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "size": "2500",
+      "id": 13
+    },
+    {
+      "name": "Mi smart ss5",
+      "price": "200",
+      "image": "https://s1.thcdn.com//productimg/1600/1600/12185019-1794714962345495.jpg",
+      "stock": "1",
+      "count": "1",
+      "description": "250g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "extras": "250g Protein: Siêu tinh khiết, hấp thụ cực nhanh, nuôi dưỡng cơ bắp toàn diện,7g BCAA (hàm lượng BCAA cực khủng trong một sản phẩm whey protein): giúp phục hồi nhanh, tăng trao đổi chất, ngăn chặt tình trạng dị hóa cơ bắp",
+      "size": "200",
+      "id": 14
+    }
+  ]
+}
